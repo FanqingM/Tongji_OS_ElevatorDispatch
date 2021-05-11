@@ -3,6 +3,8 @@ The first homework for OS
 
 [可以预览](https://fanqingm.github.io/Tongji_OS_ElevatorDispatch/dist/)
 
+**由于时间仓促。（基本算写了两天吧），还不完善**
+
 ## 第一版
 - 完成了基本UI以及基于Look以及简单群控算法的设计
 - 还需要完善按钮点击的UI效果
