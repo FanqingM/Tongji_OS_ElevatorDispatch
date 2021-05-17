@@ -12,9 +12,9 @@
             </el-button-group>
             <!-- 这里这个isopen对应着elevator到达了我们按的这一层，进行开门 -->
             <!-- 所以实际上是elevator中的isopen传值到父组件，父组件在传给outside，outside与这个接到的东西动态绑定 -->
-            <el-switch style="display: block;margin-top:10px;"  active-color="#13ce66"
+            <!-- <el-switch style="display: block;margin-top:10px;"  active-color="#13ce66"
                 inactive-color="#ff4949" active-text="开门" inactive-text="关门" class="switch">
-            </el-switch>
+            </el-switch> -->
         </div>
     </div>
 </template>
